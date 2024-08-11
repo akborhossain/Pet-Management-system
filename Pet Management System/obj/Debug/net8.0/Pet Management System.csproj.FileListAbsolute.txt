@@ -1,0 +1,30 @@
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\bin\Debug\net8.0\Pet Management System.staticwebassets.runtime.json
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\bin\Debug\net8.0\Pet Management System.exe
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\bin\Debug\net8.0\Pet Management System.deps.json
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\bin\Debug\net8.0\Pet Management System.runtimeconfig.json
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\bin\Debug\net8.0\Pet Management System.dll
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\bin\Debug\net8.0\Pet Management System.pdb
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.AssemblyInfoInputs.cache
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.AssemblyInfo.cs
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.csproj.CoreCompileInputs.cache
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.RazorAssemblyInfo.cache
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.RazorAssemblyInfo.cs
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\staticwebassets\msbuild.Pet Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Pet Management System.props
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Pet Management System.props
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Pet Management System.props
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\scopedcss\bundle\Pet Management System.styles.css
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\scopedcss\projectbundle\Pet Management System.bundle.scp.css
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.dll
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\refint\Pet Management System.dll
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.pdb
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\Pet Management System.genruntimeconfig.cache
+C:\Users\smakb\Desktop\.net\Pet-Management-system\Pet Management System\obj\Debug\net8.0\ref\Pet Management System.dll
