@@ -77,8 +77,15 @@ namespace Pet_Management_System.Controllers
             return View(pet);
         }
         [HttpGet]
-        public IActionResult Detail(int id) { 
-            return View();
+        public async Task<IActionResult> Detail(int id) {
+            var pet = await dbContext.Pets.FirstOrDefaultAsync(x => x.PetId == id);
+
+            if (pet != null)
+            {
+                return View(pet);
+            }
+
+            return RedirectToAction("Index");
         }
         [HttpPost]
         public async Task<IActionResult> Delete(Pet model)

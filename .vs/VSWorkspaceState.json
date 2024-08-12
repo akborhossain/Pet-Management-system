@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Pet Management System",
+    "\\Pet Management System\\Controllers"
   ],
-  "SelectedNode": "\\Pet Management System.sln",
+  "SelectedNode": "\\Pet Management System\\Controllers\\PetsController.cs",
   "PreviewInSolutionExplorer": false
 }
